@@ -1,0 +1,42 @@
+[
+    {
+        "speaker": "Alice",
+        "text": "Hey Bob! Long time no see. How was your summer holiday? Did you end up going anywhere exciting?"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Alice! Great to see you too. Yeah, it was fantastic, thanks! We went down to the coast, rented a little cottage right near the beach for two weeks. Pure relaxation."
+    },
+    {
+        "speaker": "Alice",
+        "text": "Oh, that sounds absolutely heavenly! I'm so jealous. Was the weather good? Did you get much swimming done?"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Mostly glorious sunshine! A couple of cloudy mornings, but perfect for lazy breakfasts. We swam almost every day, built some truly epic sandcastles with the kids, and just enjoyed the downtime. How about you? What did you get up to?"
+    },
+    {
+        "speaker": "Alice",
+        "text": "Sounds idyllic! Well, mine was a bit different. I went hiking in the mountains up north. Completely disconnected,  barely any phone signal, which was actually quite nice for a change."
+    },
+    {
+        "speaker": "Bob",
+        "text": "Wow, that's adventurous! Was it tough going? I always imagine hiking holidays are quite strenuous."
+    },
+    {
+        "speaker": "Alice",
+        "text": "Some parts were challenging, yes, but the views were absolutely worth it. Crisp mountain air, stunning landscapes... it really clears your head. We stayed in small lodges along the way. Very different from your beach trip, but equally refreshing in its own way."
+    },
+    {
+        "speaker": "Bob",
+        "text": "I can imagine. It's amazing how different types of breaks can recharge you. One day lounging by the sea, the next conquering a mountain peak!"
+    },
+    {
+        "speaker": "Alice",
+        "text": "Exactly! It's all about the change of scenery, I think. Anyway, glad you had a good time. We should catch up properly soon and swap photos!"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Definitely! Sounds like a plan. Good to see you, Alice!"
+    }
+]
